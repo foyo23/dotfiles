@@ -21,7 +21,7 @@
 	url = git://github.com/emacsmirror/psvn.git
 [submodule "emacs.d/vendor/yasnippet"]
 	path = emacs.d/vendor/yasnippet
-	url = git://github.com/emacsmirror/yasnippet.git
+	url = git://github.com/capitaomorte/yasnippet.git
 [submodule "emacs.d/vendor/yasnippets-rails"]
 	path = emacs.d/vendor/yasnippets-rails
 	url = git://github.com/eschulte/yasnippets-rails.git
